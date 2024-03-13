@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mandira Dahanayake</h1>
 <h3 align="center">Undergraduate in SLIIT</h3>
-<img align = "right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw3wWR5ZmRuUUqteGlKOb0_W&ust=1710396923628000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCpsZvL8IQDFQAAAAAdAAAAABAR.gif">
+<img align = "right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
